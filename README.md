@@ -20,8 +20,12 @@ In summary, the "Health Assistant Multidisease Prediction" project represents a 
 
 
 Technologies Used:
+
 Streamlit
+
 Python
+
 Python Libraries:numpy, pandas, scikit-learn
+
 Machine Learning Algorithm: Support Vector Machine, Logistic Regression
 
